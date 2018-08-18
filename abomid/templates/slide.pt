@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<body>
+<h1>Page: ${page}</h1>
+<p>${name} san</p>
+<img src="/static/${imgsrc}" alt="Oops, ${imgalt} should come here" />
+<form action="" method="POST">
+  <input type="text" name="text1" />
+  <input type="submit" value="Next"/>
+</form>
+</body>
+</html>

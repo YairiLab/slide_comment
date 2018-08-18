@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<body>
+<h1>Login</h1>
+<form action="" method="POST">
+  <dl>
+    <dl>Student ID</dl>
+    <dd><input type="text" name="id" /></dd>
+    <dl>Name</dl>
+    <dd><input type="text" name="name" /></dd>
+    <dl><input type="submit" value="Login" /></dl>
+  </dl>
+</form>
+</body>
+</html>
